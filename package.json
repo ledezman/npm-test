@@ -1,0 +1,25 @@
+{
+  "name": "@ledezman/npm-test",
+  "version": "1.0.1",
+  "description": "Nodeschool.io test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledezman/npm-test.git"
+  },
+  "keywords": [
+    "nodeschool"
+  ],
+  "author": "Ledezman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ledezman/npm-test/issues"
+  },
+  "homepage": "https://github.com/ledezman/npm-test#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
